@@ -1,2 +1,1 @@
-# Hello-World-
-My first repo
+My first time using HTML & CSS
